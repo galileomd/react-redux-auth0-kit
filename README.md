@@ -85,6 +85,7 @@ MIT. See LICENSE file.
 
 ## Future ideas
 
+- [ ] Add GraphQL support
 - [ ] Add a side effects library (`redux-saga`, `redux-observable`) to manage side effects. It makes the code more React/Redux-compliant, however it goes against minimalism.
 - [ ] Any other ideas are welcome! Just post an issue.
 
